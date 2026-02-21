@@ -1,0 +1,39 @@
+# VS Code
+.vscode/
+
+# CatBoost
+catboost_info/
+
+# Data & Models (usually too large for git)
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+.env/
+*.env
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if not ignoring the whole models/ folder)
+*.pkl
+*.joblib
+*.h5
+*.cbm
