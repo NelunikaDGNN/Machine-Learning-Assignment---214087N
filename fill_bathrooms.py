@@ -1,12 +1,8 @@
 """
 ========================================================
   fill_missing_fields.py
-  - bathrooms   : fill only where missing
-  - land_perches: overwrite ALL rows (existing values wrong)
-  - floor_sqft  : skip (already correct in CSV)
-
-  Run:  python fill_missing_fields.py
-
+  - bathrooms   : fill all the columns
+  
   Input/Output: data/houses_raw.csv (updated in place)
 ========================================================
 """

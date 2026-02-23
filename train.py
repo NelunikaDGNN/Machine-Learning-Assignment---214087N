@@ -1,10 +1,7 @@
 """
 ========================================================
-  FILE 3: 3_train.py
+  FILE 3: train.py
   Train CatBoost model for Sri Lanka House Price Prediction
-
-  Run:  pip install catboost scikit-learn shap lime matplotlib
-        python 3_train.py
 
   Input:  data/houses_clean_new_one.csv
   Output: models/catboost_model.cbm

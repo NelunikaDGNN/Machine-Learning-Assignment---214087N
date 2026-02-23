@@ -1,7 +1,7 @@
 """
 ========================================================
   app.py — Streamlit House Price Predictor
-  Run: streamlit run app.py
+
   Requires: models/catboost_model.cbm
             data/houses_clean_new_one.csv
 ========================================================

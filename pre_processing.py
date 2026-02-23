@@ -1,9 +1,7 @@
 """
 ========================================================
-  FILE 2: 2_preprocess.py
+  FILE 2: pre_processing.py
   STEP 2 — Clean and preprocess scraped house data
-
-  Run:  python 2_preprocess.py
 
   Input:  data/houses_raw_srilanka_new.csv
   Output: data/houses_clean_new_one.csv

@@ -1,11 +1,8 @@
 """
 ========================================================
-  FILE 1: 1_scraper.py
+  FILE 1: web_scraper.py
   STEP 1 — Scrape ALL Sri Lanka house listings
            from lankapropertyweb.com
-
-  Run:  pip install requests beautifulsoup4 pandas
-        python 1_scraper.py
 
   Output: data/houses_raw.csv  (~4000 rows)
 ========================================================
